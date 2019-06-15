@@ -1,0 +1,8 @@
+install traits 4.6.0
+install VTK 8.1.2
+install mayavi
+install matplotlib
+install pandas
+install PyQT5
+
+Columns of dataset have to be floats or integers.
