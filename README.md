@@ -1,4 +1,4 @@
-This script allows to plot all paired (2d plots) and tripled (3d plots) combinations of columns from any dataset without manual defining names of columns: https://youtu.be/kMKZ3AxObfk
+This script allows to plot all paired (2d plots) and tripled (3d plots) combinations of columns from any dataset without manual defining names of columns: https://youtu.be/6ii4xgJido0
 
 For example for Iris dataset with 6 columns (features) we can plot 6 pairs (2d graphs):
 1. sepal length/sepal width
