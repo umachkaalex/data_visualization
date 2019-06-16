@@ -98,7 +98,7 @@ def visualize_data_graph(input_data_file, target_column_visualize):
         ax.set_ylabel(str(all_columns_list[cur_scatter_data[6]]))
 
     mng = plt.get_current_fig_manager()
-    mng.window.state('zoomed')
+    # mng.window.state('zoomed')
     ax = fig.add_subplot(111)
     plt.suptitle('Target Column: ' + str(output_column))
     new_scatters(cur_scatter_data)
